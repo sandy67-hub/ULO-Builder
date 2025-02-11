@@ -23,10 +23,10 @@ rootfs_path="./rootfs"
 fwdriver_path="./core/root/lib"
 
 # Kernel & Firmware Repository
-repos="https://github.com/armarchindo/ULO-repository"
+repos="https://github.com/sandy67-hub/ULO-repository"
 
 # Custom ROOTFS Repository on releases
-rootfs_repo="armarchindo/rootfs-openwrt"
+rootfs_repo="sandy67-hub/rootfs-openwrt"
 
 start_cnt=$SECONDS
 
